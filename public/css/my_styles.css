@@ -2,12 +2,81 @@
   color: white;
   padding: 5px 10px 5px 10px;
   border-radius: 5px;
-  font-family: Helvetica;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
 
   box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
   -webkit-box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
   -moz-box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
+}
+
+.soft-btn {
+  padding: 5px 10px 5px 10px;
+  border: solid 2px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  background-color: white;
+}
+
+.soft-btn:hover {
+  color: white;
+}
+
+.soft-prime {
+  color: blue;
+}
+
+.soft-prime:hover {
+  background-color: blue;
+  border-color: blue;
+}
+
+.soft-second {
+  color: gray;
+}
+
+.soft-second:hover {
+  background-color: gray;
+  border-color: gray;
+}
+
+.soft-success {
+  color: green;
+}
+
+.soft-success:hover {
+  background-color: green;
+  border-color: green;
+}
+
+.soft-danger {
+  color: red;
+}
+
+.soft-danger:hover {
+  background-color: red;
+  border-color: red;
+}
+
+.soft-warning {
+  color: gold;
+}
+
+.soft-warning:hover {
+  background-color: gold;
+  border-color: gold;
+  color: black;
+}
+
+.soft-info {
+  color: lightblue;
+}
+
+.soft-info:hover {
+  background-color: lightblue;
+  border-color: lightblue;
+  color:black;
 }
 
 .prime-btn {
@@ -48,7 +117,6 @@
 
 .warning-btn:hover {
   background-color: gold;
-  color:
 }
 
 .info-btn {
