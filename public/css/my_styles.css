@@ -1,5 +1,4 @@
-.prime-btn {
-  background-color: blue;
+.btn {
   color: white;
   padding: 5px 10px 5px 10px;
   border-radius: 5px;
@@ -9,4 +8,53 @@
   box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
   -webkit-box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
   -moz-box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
+}
+
+.prime-btn {
+  background-color: blue;
+}
+
+.prime-btn:hover {
+  background-color: darkblue;
+}
+
+.second-btn {
+  background-color: gray;
+}
+
+.second-btn:hover {
+  background-color: darkgray;
+}
+
+.success-btn {
+  background-color: green;
+}
+
+.success-btn:hover {
+  background-color: darkgreen;
+}
+
+.danger-btn {
+  background-color: red;
+}
+
+.danger-btn:hover {
+  background-color: darkred;
+}
+
+.warning-btn {
+  background-color: yellow;
+}
+
+.warning-btn:hover {
+  background-color: gold;
+  color:
+}
+
+.info-btn {
+  background-color: lightblue;
+}
+
+.info-btn:hover {
+  background-color: cyan;
 }
