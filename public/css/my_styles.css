@@ -1,0 +1,12 @@
+.prime-btn {
+  background-color: blue;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  font-family: Helvetica;
+  font-size: 1em;
+
+  box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
+  -webkit-box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
+  -moz-box-shadow: 2px -1px 66px 39px rgba(0,0,0,0.33) inset;
+}
